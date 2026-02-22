@@ -1,17 +1,13 @@
 ---
 layout: project
-title: Crane
+title: Lanternfly
 description: Simple crane design with actuator
 technologies: []
-image: /assets/images/Crane-actuator-design.jpg
+image: /assets/images/Lanternfly.png
 ---
 
-Homework 12 - Portfolio Assignment
+Lanternfly Pitch - ClientOutline
 
-<p><img src="/fa25-portfolio-crw239/assets/images/Portfolio1.png" alt="Shaded rendering of earlier version" style="width: 600px" /></p>
+<p><img src="/fa25-portfolio-crw239/assets/images/LanternflyPage1.jpg" alt="Shaded rendering of earlier version" style="width: 600px" /></p>
 
-<p><img src="/fa25-portfolio-crw239/assets/images/Portfolio2.png" alt="Shaded rendering of earlier version" style="width: 600px" /></p>
-
-<p><img src="/fa25-portfolio-crw239/assets/images/Portfolio3.png" alt="Shaded rendering of earlier version" style="width: 600px" /></p>
-
-<p><img src="/fa25-portfolio-crw239/assets/images/Portfolio4.png" alt="Shaded rendering of earlier version" style="width: 600px" /></p>
+<p><img src="/fa25-portfolio-crw239/assets/images/LanternflyPage2.jpg" alt="Shaded rendering of earlier version" style="width: 600px" /></p>
