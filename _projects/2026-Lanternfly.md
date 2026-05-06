@@ -6,10 +6,7 @@ technologies: []
 image: /assets/images/Lanternfly.png
 ---
 
-Spotted Lanternfly (SLF) eggmasses are difficult to remove because they are often located high
-on trees in hard to reach surfaces or at odd angles. Our group has chosen to focus specifically on the mechanical removal of egg masses where accessibility is a key limitation. We believe that solving this subproblem of removing SLF egg masses is the critical step that reduces SLF population growth and prevents
-further infestation cycles. Develop a lightweight, durable, and easy-to-use scraper mechanism that allows agricultural workers to effectively remove spotted lanternfly (SLF) egg masses from curved, hard-to-reach surfaces at
-varying heights. The device must not cause crop/surface damage, cause excessive operator fatigue, or require specialized training.
+Spotted Lanternfly (SLF) eggmasses are difficult to remove because they are often located high on trees in hard to reach surfaces or at odd angles. Our group has chosen to focus specifically on the mechanical removal of egg masses where accessibility is a key limitation. We believe that solving this subproblem of removing SLF egg masses is the critical step that reduces SLF population growth and prevents further infestation cycles. Develop a lightweight, durable, and easy-to-use scraper mechanism that allows agricultural workers to effectively remove spotted lanternfly (SLF) egg masses from curved, hard-to-reach surfaces at varying heights. The device must not cause crop/surface damage, cause excessive operator fatigue, or require specialized training.
 
 <p><img src="/fa25-portfolio-crw239/assets/images/LanternflyPage1.jpg" alt="Shaded rendering of earlier version" style="width: 600px" /></p>
 
