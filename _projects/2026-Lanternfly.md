@@ -29,3 +29,11 @@ Spotted Lanternfly (SLF) eggmasses are difficult to remove because they are ofte
 <p><img src="/fa25-portfolio-crw239/assets/images/odp5-7.jpg" alt="Shaded rendering of earlier version" style="width: 600px" /></p>
 
 <p><img src="/fa25-portfolio-crw239/assets/images/odp5-8.jpg" alt="Shaded rendering of earlier version" style="width: 600px" /></p>
+
+<p><img src="/fa25-portfolio-crw239/assets/images/odp6-1.jpg" alt="Shaded rendering of earlier version" style="width: 600px" /></p>
+
+<p><img src="/fa25-portfolio-crw239/assets/images/odp6-2.jpg" alt="Shaded rendering of earlier version" style="width: 600px" /></p>
+
+<p><img src="/fa25-portfolio-crw239/assets/images/odp6-3.jpg" alt="Shaded rendering of earlier version" style="width: 600px" /></p>
+
+<p><img src="/fa25-portfolio-crw239/assets/images/odp6-4.jpg" alt="Shaded rendering of earlier version" style="width: 600px" /></p>
